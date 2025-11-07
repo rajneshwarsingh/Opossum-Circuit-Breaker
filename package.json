@@ -1,0 +1,20 @@
+{
+  "name": "opossum-circuit-breaker",
+  "version": "1.0.0",
+  "description": "Circuit Breaker pattern in Node.js using Opossum to resilience, fault tolerance, and service reliability",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rajneshwar Singh",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rajneshwarsingh/Opossum-Circuit-Breaker.git"
+  },
+  "homepage": "https://github.com/rajneshwarsingh/Opossum-Circuit-Breaker#readme",
+  "dependencies": {
+    "express": "^5.1.0",
+    "opossum": "^9.0.0"
+  }
+}
